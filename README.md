@@ -14,3 +14,5 @@
 [https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment)
 
 <h2>Video Explicativo del dataset</h2>	
+
+https://www.youtube.com/watch?v=NMM1ZNi3DPA
