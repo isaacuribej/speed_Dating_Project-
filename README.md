@@ -16,3 +16,6 @@
 <h2>Video Explicativo del dataset</h2>	
 
 https://www.youtube.com/watch?v=NMM1ZNi3DPA
+
+<h2>Entrega final</h2>	
+https://youtu.be/XODXahPmVCw
